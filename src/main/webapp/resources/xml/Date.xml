@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<time>
+<type name="半年考核">
+     
+		<date name="上半年"></date>
+        <date name="下半年"></date>
+	</type>
+	<type name="季度考核">
+     
+		<date name="第一季度"></date>
+        <date name="第二季度"></date>
+        <date name="第三季度"></date>
+        <date name="第四季度"></date>
+	</type>
+    <type name="月考核">
+     
+		<date name="1月"></date>
+        <date name="2月"></date>
+        <date name="3月"></date>
+
+        <date name="4月"></date>
+        <date name="5月"></date>
+        <date name="6月"></date>
+        <date name="7月"></date>
+        <date name="8月"></date>
+        <date name="9月"></date>
+        <date name="10月"></date>
+
+        <date name="11月"></date>
+        <date name="12月"></date>
+        
+	</type>
+	<type name="临时考核">
+	<date name="   "></date>
+	</type>
+</time>

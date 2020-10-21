@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#header{
+    text-align: center;
+    font-weight: 700;
+}
+#headone{
+    border: 2px solid #A5E7C2;
+   height: 40px;
+   line-height: 40px;
+   text-align:center;
+   margin-top: 4px;
+}
+#hold{
+	float:left;
+	margin-top:6px;
+}
+.bt{
+    display: inline-block;
+    width: 60px;
+    height: 30px;
+    border: 1px solid blue;
+    border-radius: 8px;
+    background-color: #0874D4;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    vertical-align: middle;
+}
+#print{
+    float: right ;
+    margin-top:6px;
+}
+#headtwo{
+    color: #0874D4;
+    height: 34px;
+    line-height: 34px;
+    background-color: #F4F0ED;
+    border: 2px solid #A5E7C2;
+    margin-top: 4px;
+    font-weight: 700;
+}
+table{
+    margin-top: 4px;
+    width: 100%;
+}
+td{
+    border: 2px solid #A5E7C2;
+    height: 30px;
+}
+.ib{
+    height: 24px;
+    border: 1px;
+    padding:10px;
+    width:90%;
+}
+textarea{
+    line-height: 30px;
+    border: 0;
+}
+#number{
+    text-align: left;
+    width:30%;
+}
+.keep{
+    height: 24px;
+    border-color: #cccccc;
+}
+#choose{
+    text-align: left;
+}
+select{
+    height: 24px;
+    width:70px;
+    display:none;
+}
+.xingxing{
+    color: red;
+    width: 10px;
+    height: 0;
+    background-color: white;
+    border: 0px;
+}
+.title{
+    background-color: #FFFFF0;
+    text-align: right;
+}
+#search{
+	text
+}
